@@ -1,0 +1,325 @@
+{
+  "source_base_path": "D:/docfx-win-x64-v2.76.0",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Cancelperiodreportdetails.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Cancelperiodreportdetails.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Closeconfirmationpop-up.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Closeconfirmationpop-up.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Confirmationpop-up.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Confirmationpop-up.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Dashboard.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Dashboard.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Deletecanceledmessage.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Deletecanceledmessage.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Deleteperiodreport.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Deleteperiodreport.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Deletesuccessmessage.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Deletesuccessmessage.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Detailspath.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Detailspath.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Map.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Map.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Navmap.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Navmap.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Periodfilterdetails.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Periodfilterdetails.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Periodreportpage.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Periodreportpage.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Periodreports.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Periodreports.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Periodreportsfilter.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Periodreportsfilter.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Periodreportsfilter.png.vsdx",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Periodreportsfilter.png.vsdx"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Periodreportsfilternoresults.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Periodreportsfilternoresults.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Periodreportsfilterresults.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Periodreportsfilterresults.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Saveperiodreportdetails.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Saveperiodreportdetails.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Selectperiodreport.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Selectperiodreport.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Signin.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Signin.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Successperiodreportdetails.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Successperiodreportdetails.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Title.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Title.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/Yesdeleteperiodreport.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/Yesdeleteperiodreport.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Images/nameonmap.png",
+      "output": {
+        "resource": {
+          "relative_path": "Images/nameonmap.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "np/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "np/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "np/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "np/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "np/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "np/toc.html"
+        },
+        ".json": {
+          "relative_path": "np/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "usermanual.md",
+      "output": {
+        ".html": {
+          "relative_path": "usermanual.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
